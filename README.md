@@ -15,7 +15,6 @@ Aprende fácil</h1>
 </h4>
 
 ------------
-**Contenido**
 
 # Contenido
 1. [Descripción](#Descripción)
@@ -57,7 +56,7 @@ aplicación esté disponible a partir de la API 22 (Android 5.0 Lollipop)
 |CU-10| El usuario visuliza la configuración de su cuenta.|
 |CU-11| El usuario modifica la configuración de la app.|
 |CU-12| El usuario responde encuestas sobre contenido que le gustaria incluir.|
-|CU-13|El usuario elimina su cuenta.|
+|CU-13| El usuario elimina su cuenta.|
 |CU-14| El usuario selecciona o cambia su foto de perfil.|
 |CU-15| El usuario cambia su username.|
 |CU-16| El usuario pausa el video que está visualizando.|
