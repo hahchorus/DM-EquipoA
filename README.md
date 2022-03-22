@@ -19,6 +19,9 @@ Aprende fácil</h1>
 
 # Table of contents
 1. [Descripción](#Descripción)
+1. [Casos de uso](#Casos-de-uso)
+1. [Flujo de la aplicación](#Flujo-de-la-aplicación)
+1. [Wireframes](#Wireframes)
 
 # Descripción
 
