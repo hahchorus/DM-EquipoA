@@ -16,10 +16,9 @@ Aprende fácil</h1>
 
 ------------
 **Contenido**
-<!--[TOCM]-->
 
-[TOC]
-
+# Table of contents
+1. [Descripción](#Descripción)
 
 # Descripción
 
@@ -41,8 +40,8 @@ aplicación esté disponible a partir de la API 22 (Android 5.0 Lollipop)
 ------------
 # Casos de uso
 
-|N° Caso|Alias|
-|-----------|
+| N° Caso|Alias|
+|-----------|-----------|
 |CU-01| El usuario inicia sesión.|
 |CU-02| El usuario cierra sesión.|
 |CU-03| El usuario visualiza el contenido multimedia.|
